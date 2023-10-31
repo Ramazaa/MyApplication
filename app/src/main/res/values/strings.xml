@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="food_names">
+        <item>Chicken Pizza</item>
+        <item>Beef Chicken</item>
+        <item>Normal Pizza</item>
+        <item>Sweet Chicken</item>
+        <item>Mini Pizza</item>
+        <item>Extra chicken</item>
+        <item>Other Food1</item>
+        <item>Other Food2</item>
+        <item>Other Food3</item>
+
+    </string-array>
+    <string-array name="food_descryption">
+        <item>Chicken Pizza des</item>
+        <item>Beef Chicken des</item>
+        <item>Normal Pizza des</item>
+        <item>Sweet Chicken des</item>
+        <item>Mini Pizza des</item>
+        <item>Extra chicken des</item>
+        <item>Other Food1 des</item>
+        <item>Other Food2 des</item>
+        <item>Other Food3 des</item>
+
+    </string-array>
 </resources>
